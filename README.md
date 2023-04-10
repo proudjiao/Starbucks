@@ -4,6 +4,6 @@ The project involves using Python to scrape Starbucks locations from their websi
 
 ## To View All Starbucks in LA area
 
-download and open laSbuxMap.html file.
+download and open `laSbuxMap.html` file.
 
 Each black dot represents a starbucks and starbucks that are close to each other are connected using a black line.
